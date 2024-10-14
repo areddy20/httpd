@@ -1,4 +1,4 @@
----
+--
 galaxy_info:
   author: Aditi Alpoor Reddy
   description: Role to install and configure Apache HTTP server.
@@ -9,9 +9,6 @@ galaxy_info:
     - name: EL
       versions:
         - 9
-  tags:
-    - httpd
-    - apache
-    - webserver
+
 
 dependencies: []
