@@ -1,0 +1,20 @@
+---
+galaxy_info:
+  author: Aditi Alpoor Reddy
+  description: Role to install and configure Apache HTTP server.
+  company: Alpoor LLC
+  license: MIT
+  min_ansible_version: 2.14
+  platforms:
+    - name: EL
+      versions:
+        - 9
+  categories:
+    - web
+    - infrastructure
+  tags:
+    - httpd
+    - apache
+    - webserver
+
+dependencies: []

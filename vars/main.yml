@@ -1,0 +1,5 @@
+---
+# vars file for httpd
+title: "Aditi's html file"
+header: "Hello, this is httpd"
+content: "Hello World, changing content!" 
